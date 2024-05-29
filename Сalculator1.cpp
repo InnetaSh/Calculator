@@ -43,11 +43,3 @@
 //		return num1 / num2;
 //	throw"Dilena na null.\n";
 //}
-
-void TestTest() {
-
-}
-
-void TestTestTest() {
-
-}
